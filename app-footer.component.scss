@@ -1,0 +1,7 @@
+$background: #582C84;
+footer {
+    background-color: $background;
+    @media(max-width: 767.98px){
+        visibility: hidden;
+    }
+}
